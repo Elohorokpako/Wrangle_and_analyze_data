@@ -7,9 +7,9 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 WeRateDogs [downloaded their Twitter archive](https://support.twitter.com/articles/20170160) and sent it to Udacity via email exclusively for the use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
 ## Wrangle Act
-The steps I took to obtain, clean and visualize the data are presented in the [pdf]()
+The steps I took to obtain, clean and visualize the data are presented in the [pdf](https://github.com/Elohorokpako/Wrangle_and_analyze_data/blob/main/wrangle_report.pdf)
 
 ## Act Report
-The findings and insights derived from the data are presented in the [pdf]()
+The findings and insights derived from the data are presented in the [pdf](https://github.com/Elohorokpako/Wrangle_and_analyze_data/blob/main/act_report.pdf)
 
 The stpewise process for this project can be accessed in the jupyter notebook [Here](https://github.com/Elohorokpako/Wrangle_and_analyze_data/blob/main/wrangle_and_analyze_data.ipynb)
